@@ -1,0 +1,17 @@
+Partner Name: Tyler Streator
+Prefers Java but C family in general
+
+Q: What is your favorite programming language? Why?
+A: My favorite programming language right now would 
+probably be Python because I've used in the most 
+in recent projects and assignments. I used to 
+like Java the most but Python has been growing 
+on me due to its versatility and uses. 
+
+
+Q: Is your favorite language the one you are also 
+most experienced with? If not, which language 
+are you most experienced with?
+A: My favorite lanugage is one of the ones I am most 
+experienced, as I am roughly the same level in 
+both Python and Java. 
